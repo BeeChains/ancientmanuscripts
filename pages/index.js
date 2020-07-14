@@ -13,18 +13,18 @@ const Home = () => (
       </h1>
 
       <p className="description">
-        Look Within <code>pages/index.js</code>
+        Look Within Thyself, Follow Your Calling and Stop Stalling! <code></code>
       </p>
 
       <div className="grid">
         <a href="https://nextjs.org/docs" className="card">
           <h3>Documentation &rarr;</h3>
-          <p>Find in-depth information about Ancient Manuscripts.</p>
+          <p>Find in-depth information about the Ancient Manuscripts Within Your Being.</p>
         </a>
 
         <a href="https://nextjs.org/learn" className="card">
-          <h3>Learn &rarr;</h3>
-          <p>Learn all you can about yourself!</p>
+          <h3>KNOW THYSELF &rarr;</h3>
+          <p>Learn all you possibly can about yourself!</p>
         </a>
 
         <a
@@ -32,7 +32,7 @@ const Home = () => (
           className="card"
         >
           <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <p>Discover The Inner Light Of Consciousness Within!</p>
         </a>
 
         <a
@@ -41,7 +41,7 @@ const Home = () => (
         >
           <h3>Deploy &rarr;</h3>
           <p>
-            Instantly deploy your Next.js site to a public URL with Vercel.
+            Instantly Shine The Light For All.
           </p>
         </a>
       </div>
