@@ -18,7 +18,7 @@ const Home = () => (
 
       <div className="grid">
         <a href="https://nextjs.org/docs" className="card">
-          <h3>Documentation &rarr;</h3>
+          <h3>Be Still and Know &rarr;</h3>
           <p>Find in-depth information about the Ancient Manuscripts Within Your Being.</p>
         </a>
 
@@ -31,15 +31,15 @@ const Home = () => (
           href="https://github.com/zeit/next.js/tree/master/examples"
           className="card"
         >
-          <h3>Examples &rarr;</h3>
-          <p>Discover The Inner Light Of Consciousness Within!</p>
+          <h3>Ask self; Who Am I? &rarr;</h3>
+          <p>Discover The Inner Light Of Consciousness Found Within!</p>
         </a>
 
         <a
           href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           className="card"
         >
-          <h3>Deploy &rarr;</h3>
+          <h3>Radiance &rarr;</h3>
           <p>
             Instantly Shine The Light For All.
           </p>
