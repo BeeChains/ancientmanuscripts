@@ -28,7 +28,7 @@ const Home = () => (
         </a>
 
         <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
+          href="https://bthespirit.bandcamp.com/"
           className="card"
         >
           <h3>Ask the self; Who Am I? &rarr;</h3>
@@ -49,7 +49,7 @@ const Home = () => (
 
     <footer>
       <a
-        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        href="https://bcrypto8.vercel.app"
         target="_blank"
         rel="noopener noreferrer"
       >
