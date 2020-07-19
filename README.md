@@ -2,7 +2,7 @@ This is ancientmanuscripts a [Handshake](https://handshake.org) project bootstra
 
 ## Getting Started [ancientmanuscripts].(https://my-ancientmanuscripts.vercel.app)
 
-First, run the development server: C:\Users\myspi\OneDrive\Pictures\defend the sacred.jpg
+First, run the development server: (C:\Users\myspi\OneDrive\Pictures\defend the sacred.jpg)
 
 ```bash
 npm run dev
