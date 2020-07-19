@@ -2,15 +2,9 @@ This is ancientmanuscripts blockchain domain, a [Handshake](https://handshake.or
 
 ## Getting Started [ancientmanuscripts].(https://my-ancientmanuscripts.vercel.app)
 
-First, run the development server:
+First,
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [ancientmanuscripts](https://beechains.github.io/ancientmanuscripts.github.io/) with your browser to see the result.
 
 You can start editing this page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
