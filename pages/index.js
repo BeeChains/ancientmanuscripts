@@ -17,12 +17,12 @@ const Home = () => (
       </p>
 
       <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
+        <a href="https://ipfs.io/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/" className="card">
           <h3>Be Still and Know &rarr;</h3>
           <p>Find in-depth information about the Ancient Manuscripts Within Your Being.</p>
         </a>
 
-        <a href="https://nextjs.org/learn" className="card">
+        <a href="http://www.myspiritwave.xyz/" className="card">
           <h3>KNOW THYSELF &rarr;</h3>
           <p>Learn all you possibly can about yourself!</p>
         </a>
@@ -31,12 +31,12 @@ const Home = () => (
           href="https://github.com/zeit/next.js/tree/master/examples"
           className="card"
         >
-          <h3>Ask self; Who Am I? &rarr;</h3>
+          <h3>Ask the self; Who Am I? &rarr;</h3>
           <p>Discover The Inner Light Of Consciousness Found Within!</p>
         </a>
 
         <a
-          href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://bmindful.vercel.app"
           className="card"
         >
           <h3>Radiance &rarr;</h3>
