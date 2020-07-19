@@ -6,16 +6,16 @@ First,
 
 Open [ancientmanuscripts](https://beechains.github.io/ancientmanuscripts.github.io/) with your browser to see the result.
 
-You can start editing this page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+ALL Will Pass, IF You LET IT GO!
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about b-the-spirit, take a look at the following resources:
 
 - [b-the-spirit.crypto](https://ipfs.io/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) 
 - [myspiritwave](www.myspiritwave.xyz)
 
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js) - your feedback and contributions are welcome!
+You can email me here [BeSpirit247@protonmail.com](BeSpirit247@prontonmail.com) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
