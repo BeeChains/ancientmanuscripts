@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        The Now, Ancient Manuscripts <a href="https://handshake.org">Handshake</a> page!
+        The Now, ancientmanuscripts blockchain domain a <a href="https://handshake.org">Handshake</a> page!
       </h1>
 
       <p className="description">
