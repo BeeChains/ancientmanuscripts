@@ -1,8 +1,8 @@
-This is ancientmanuscripts a [Handshake](https://handshake.org) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+This is ancientmanuscripts, a [Handshake](https://handshake.org) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started [ancientmanuscripts].(https://my-ancientmanuscripts.vercel.app)
 
-First, run the development server: (C:\Users\myspi\OneDrive\Pictures\defend the sacred.jpg)
+First, run the development server:
 
 ```bash
 npm run dev
