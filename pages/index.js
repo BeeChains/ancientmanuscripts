@@ -12,7 +12,8 @@ const Home = () => (
         The Now, ancientmanuscripts blockchain domain a <a href="https://handshake.org">Handshake</a> page!
       </h1>
   
-      <a href="https://beechains.github.io/ancientmanuscripts.github.io/">AncientManuscripts</a> page!
+      <p className="title">
+      Many options <a href="https://beechains.github.io/ancientmanuscripts.github.io/">AncientManuscripts</a> page!
       </h1>
 
       <p className="description">
