@@ -4,7 +4,7 @@ This is ancientmanuscripts blockchain domain, a [Handshake](https://handshake.or
 
 First,
 
-Open [ancientmanuscripts](https://beechains.github.io/ancientmanuscripts.github.io/) with your browser to see the result.
+Open the [ancientmanuscripts](https://beechains.github.io/ancientmanuscripts.github.io/) of your Spirit to see the result.
 
 ALL Will Pass, IF You LET IT GO!
 
