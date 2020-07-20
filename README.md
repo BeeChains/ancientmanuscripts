@@ -1,6 +1,6 @@
 This is ancientmanuscripts blockchain domain, a [Handshake](https://handshake.org) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started [ancientmanuscripts].(https://my-ancientmanuscripts.vercel.app)
+## Getting Started check out this version [ancientmanuscripts](https://my-ancientmanuscripts.vercel.app)
 
 First,
 
