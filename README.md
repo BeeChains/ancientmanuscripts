@@ -1,12 +1,10 @@
 This is ancientmanuscripts blockchain domain, a [Handshake](https://handshake.org) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started check out this version [ancientmanuscripts](https://my-ancientmanuscripts.vercel.app)
+## Getting Started check out this version of [ancientmanuscripts](https://my-ancientmanuscripts.vercel.app)
 
 First,
 
-Open the [ancientmanuscripts](https://beechains.github.io/ancientmanuscripts.github.io/) of your Spirit to see the result.
-
-ALL Will Pass, IF You LET IT GO!
+Open the [ancientmanuscripts](https://my-ancientmanuscripts.vercel.app/) found WITHIN.
 
 ## Learn More
 
@@ -17,8 +15,8 @@ To learn more about b-the-spirit, take a look at the following resources:
 
 You can email me here [bthespirit@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deploy to the Universe
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+These are TLD blockchain domains built from the foundation up [bhandshake domain](https://beechains.github.io/bhandshake) from the creators.
  
 Check out some of our vibes!!! [bthespirit](https://bthespirit.bandcamp.com/) for more details.
