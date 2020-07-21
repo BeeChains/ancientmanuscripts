@@ -15,10 +15,10 @@ To learn more about b-the-spirit, take a look at the following resources:
 - [b-the-spirit.crypto](https://ipfs.io/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) 
 - [myspiritwave](www.myspiritwave.xyz)
 
-You can email me here [BeSpirit247@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
+You can email me here [bthespirit@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [bthespirit](https://bthespirit.bandcamp.com/) for more details.
+ 
+Check out some of our vibes!!! [bthespirit](https://bthespirit.bandcamp.com/) for more details.
