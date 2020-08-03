@@ -13,7 +13,7 @@ To learn more about b-the-spirit, take a look at the following resources:
 - [b-the-spirit.crypto](https://ipfs.io/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) 
 - [myspiritwave](www.myspiritwave.xyz)
 
-You can email me here [bthespirit@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
+You can email me here [bthespirit777@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
 
 ## Deploy to the Universe
 
