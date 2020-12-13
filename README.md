@@ -1,23 +1,17 @@
-This is ancientmanuscripts blockchain domain, a [Handshake](https://handshake.org) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+## Ancient Manuscripts blockchain domain 
+
+[![image](https://user-images.githubusercontent.com/37987346/101999396-a37e4380-3caa-11eb-8cc6-e61fb53c7855.png)](http://shapereality.innerinetcompany.hns.to/)
+
+A [Handshake](https://handshake.org) blockchain Top Level Domain.
 
 ## Getting Started check out this version of [ancientmanuscripts](https://my-ancientmanuscripts.vercel.app)
 
 [WORLD BROTHERHOOD UNION](https://www.dkb-mevlana.org.tr/en/aboutus_eng.html)
 ![image](https://user-images.githubusercontent.com/37987346/93688213-1738f780-fa92-11ea-8774-fee8e659310f.png)
 
-Open the [ancientmanuscripts](https://my-ancientmanuscripts.vercel.app/) found WITHIN.
+## [HNS-DOMAINS/](http://home.hns-domains.hns.to/)
 
-## Learn More
 
-To learn more about b-the-spirit, take a look at the following resources:
 
-- [b-the-spirit.crypto](https://ipfs.io/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) 
-- [www.myspiritwave.xyz](http://www.myspiritwave.xyz)
 
-You can email me here [bthespirit777@protonmail.com](https://protonmail.com) - your feedback and contributions are welcome!
 
-## Deploy to the Universe
-
-These are TLD blockchain domains built from the foundation up [bhandshake domain](https://beechains.github.io/bhandshake) from the creators.
- 
-Check out some of our vibes!!! [bthespirit](https://bthespirit.bandcamp.com/) for more details.
